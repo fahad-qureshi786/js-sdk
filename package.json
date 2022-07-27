@@ -1,0 +1,24 @@
+{
+  "name": "ingame-sdk",
+  "version": "1.0.0",
+  "description": "in game sdk for web3 developers to install and use this sdk service in js applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahad-qureshi786/js-sdk.git"
+  },
+  "keywords": [
+    "ingame",
+    "sdk",
+    "web3"
+  ],
+  "author": "fahad-qureshi786",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahad-qureshi786/js-sdk/issues"
+  },
+  "homepage": "https://github.com/fahad-qureshi786/js-sdk#readme"
+}
